@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ bruteForce()
+comment1.params=e\ isIn\ iStart
+comment1.target=void\ bruteForceRecurse(int[],\ boolean[],\ int)
+comment2.params=n\ index\ list
+comment2.target=float\ findBound(knapsack.Node,\ int,\ int[])
+comment3.params=n
+comment3.target=void\ printNode(knapsack.Node)
+comment4.params=
+comment4.target=void\ branchbound()
+comment5.params=v\ w\ indices
+comment5.target=void\ selectionSort(int[],\ int[],\ int[])
+comment6.params=
+comment6.target=void\ greedy()
+comment7.params=filename
+comment7.target=void\ readfile(java.lang.String)
+comment8.params=
+comment8.target=java.util.ArrayList\ dynamic()
+comment9.params=
+comment9.target=void\ main()
+numComments=10

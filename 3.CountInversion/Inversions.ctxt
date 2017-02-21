@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=ranking
+comment0.target=int\ invCounter(int[])
+comment0.text=\n\ \n
+comment1.params=left\ right\ result
+comment1.target=int\ merge(int[],\ int[],\ int[])
+comment1.text=\n\ Merging\ 2\ array,\ and\ count\ the\ number\ of\ inversions\n\ @param\ left\ is\ the\ first\ array\ to\ merge\n\ @param\ right\ is\ the\ second\ array\ to\ merge\n\ @param\ result\ is\ the\ destination\ array\n\ @return\ number\ of\ inversion\n
+numComments=2

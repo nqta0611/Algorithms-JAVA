@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=ladHeight\ hiSafeRung
+comment0.target=java.util.ArrayList\ findHighestSafeRung(int,\ int)
+numComments=1

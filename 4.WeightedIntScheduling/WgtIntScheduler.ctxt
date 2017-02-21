@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=stime\ ftime\ weight
+comment0.target=int[]\ getOptSet(int[],\ int[],\ int[])
+comment0.text=\ Find\ the\ set\ of\ tasks\ which\ has\ maximum\ total\ value\ with\n\ constraint\ that\ no\ task\ overlapping\ other\n
+numComments=1

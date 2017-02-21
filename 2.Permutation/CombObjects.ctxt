@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=java.util.ArrayList\ getGrayCode(int)
+comment0.text=\n\ Generating\ an\ ArrayList\ of\ strings\ where\ each\ string\ is\ a\ bitstring\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ (contains\ only\ the\ characters\ 0\ and\ 1)\ \n\ @param\ size\:\ is\ the\ size\ of\ bit\ string.\n
+comment1.params=str
+comment1.target=java.util.ArrayList\ getLexPerm(java.lang.String)
+comment1.text=\n\ The\ permutation\ that\ returns\ an\ ArrayList\ of\ Strings\ in\ lexicographic\ order.\ \n\ @param\ str\:\ the\ input\ argument\ which\ can\ be\ assumed\ to\ be\ a\ string\ of\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ distinct\ lower\ case\ letters\ (in\ alphabetical\ order)\n\ @return\ the\ ArrayList\ of\ lexicographic\ permutation\n
+comment2.params=str
+comment2.target=java.util.ArrayList\ getMinChgPerm(java.lang.String)
+comment2.text=\n\ Permuation\ that\ returns\ an\ ArrayList\ of\ Strings\ that\ satisfy\ a\ minimum\ change\ requirement.\ \n\ @param\ str\:\ the\ input\ argument\ which\ can\ be\ assumed\ to\ be\ a\ string\ of\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ distinct\ lower\ case\ letters\ (in\ alphabetical\ order).\ \n\ @return\ the\ ArrayList\ of\ the\ permutation\ with\ minimum\ change.\n
+numComments=3
